@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\coreui\coreui\bin\Debug\coreui.dll
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\coreui\coreui\bin\Debug\coreui.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\coreui\coreui\obj\Debug\coreui.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\coreui\coreui\obj\Debug\coreui.dll
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\coreui\coreui\obj\Debug\coreui.pdb
