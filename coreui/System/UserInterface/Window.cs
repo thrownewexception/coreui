@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace coreui
+namespace coreui.System.UserInterface
 {
-    public class Class1
+    /// <summary>
+    /// 
+    /// </summary>
+    public class Window
     {
+
     }
 }
